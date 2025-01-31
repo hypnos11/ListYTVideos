@@ -1,5 +1,5 @@
 // https://stackoverflow.com/questions/66965119/how-to-get-information-about-all-videos-of-a-channel-to-google-sheets-with-googl/66965120#66965120
-var API_KEY='AIzaSyC15a2ge8yuMcMYdIHjqLtjTAamtCmr4Hw'
+var API_KEY='[INSERT YOUR API KEY HERE]'
 var CHANNELS_URL = 'https://www.googleapis.com/youtube/v3/channels'
 var PLAYLIST_ITEMS_URL = 'https://youtube.googleapis.com/youtube/v3/playlistItems'
 var VIDEOS_URL =  'https://youtube.googleapis.com/youtube/v3/videos'
